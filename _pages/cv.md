@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Information Science, UNT, 2007
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Criminal Justice, UNT, 2002
+* B.S. in Law, Ankara University, 1995
 
 Work experience
 ======
